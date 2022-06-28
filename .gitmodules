@@ -1,3 +1,6 @@
 [submodule "PathTracking"]
 	path = PathTracking
 	url = https://github.com/marcobiasizzo/PathTracking
+[submodule "BGs-Cereb-nest"]
+	path = BGs-Cereb-nest
+	url = https://github.com/marcobiasizzo/BGs-Cereb-nest
